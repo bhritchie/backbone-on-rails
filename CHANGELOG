@@ -1,6 +1,10 @@
 CHANGELOG
 =========
 
+1.2.1.0 (Jul 31, 2015)
+--------------------
+- Update Backbone to 1.2.1
+
 1.2.0.0 (Jun 01, 2015)
 --------------------
 - Add optional app name and path to generators (#70)
